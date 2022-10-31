@@ -4,3 +4,4 @@ hola
 
 Git commands even a monkey can understand
 add: Register a change in an index
+commit: Save the status of an index
